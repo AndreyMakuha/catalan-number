@@ -1,0 +1,6 @@
+[package]
+name = "catalan_number"
+version = "0.1.0"
+authors = ["Andrey Makuha <amakuha1912@gmail.com>"]
+
+[dependencies]
